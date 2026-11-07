@@ -1,0 +1,17 @@
+# Скомпилированный бинарник (публикуется в Releases)
+YouTubeDownloader.exe
+YouTubeDownloader.exe~
+
+# Временные файлы yt-dlp и скачанные видео
+.ytdl-*/
+*.part
+*.ytdl
+*.mp4
+*.mkv
+*.webm
+
+# ОС и редакторы
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
